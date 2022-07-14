@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Scientist;Android+Developer;Data+Scientist;Graduate+of+FAST-NUCES;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
+<p align="center">
+	<a href="mailto:sameetassadullah744@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
