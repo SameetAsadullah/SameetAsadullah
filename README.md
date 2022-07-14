@@ -23,3 +23,9 @@ Here are some ideas to get you started:
   <a href="mailto:sameetassadullah744@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+### :sassy_man: About Me
+  - :man_student: I am a `Graduate` of National University of Computer and Emerging Sciences
+  - :man_scientist: I am a `Computer Scientist`
+  - :man_technologist: I love to `Automate` stuff using softwares
+  - :man_office_worker: I am `Hard Working` and love to `Learn` new interesting things
