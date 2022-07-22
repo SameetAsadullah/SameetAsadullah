@@ -46,3 +46,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sameetasadullah&show_icons=true&count_private=true&theme=algolia&include_all_commits=true" alt="Sameet Asadullah' GitHub Stats" />
 </p>
+
+### :writing_hand: My Coding Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameetAsadullah&theme=algolia" alt="Sameet Asadullah' GitHub Stats" />
+</p>
