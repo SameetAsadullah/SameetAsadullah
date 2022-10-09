@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 ## :sassy_man: About Me
+  - :man_office_worker: I work at `Vyro.ai` as an `Assoc. SDE`
   - :man_student: I am a `Graduate` of National University of Computer and Emerging Sciences
   - :man_scientist: I am a `Computer Scientist`
   - :man_technologist: I love to `Automate` stuff using softwares
