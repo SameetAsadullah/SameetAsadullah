@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameetAsadullah&theme=algolia" alt="Sameet Asadullah' GitHub Stats" />
 </p>
+
+## :snake: See My Contributions Being Eaten by a Snake
+![Snake Gif](https://github.com/SameetAsadullah/SameetAsadullah/blob/output/github-contribution-grid-snake.gif)
