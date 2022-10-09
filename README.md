@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## :hammer_and_wrench: Tools and Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,html,typescript,css,vscode,visualstudio,androidstudio,eclipse,linux,react,angular,mongodb,firebase,php,nodejs,git,express,docker,flask,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,html,typescript,css,vscode,visualstudio,androidstudio,eclipse,linux,react,angular,mongodb,firebase,php,nodejs,git,express,docker,flask,raspberrypi,gcp,aws,fastapi" />
   </a>
 </p>
 
