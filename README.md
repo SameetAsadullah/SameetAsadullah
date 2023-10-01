@@ -54,5 +54,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameetAsadullah&theme=algolia" alt="Sameet Asadullah' GitHub Stats" />
 </p>
 
+### 📛: My Badges
+[![An image of @sameetasadullah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sameetasadullah)](https://holopin.io/@sameetasadullah)
+
 ## :snake: See My Contributions Being Eaten by a Snake
 ![Snake Gif](https://github.com/SameetAsadullah/SameetAsadullah/blob/output/github-contribution-grid-snake.gif)
