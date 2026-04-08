@@ -5,17 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sameetassadullah744@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/">LinkedIn</a> •
-  <a href="https://github.com/SameetAsadullah">GitHub</a> •
-  Adelaide, Australia
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-LLMs%20%26%20RAG-0F172A?style=for-the-badge" alt="Focus on LLMs and RAG" />
-  <img src="https://img.shields.io/badge/Domain-Computer%20Vision-1D4ED8?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Domain-Image%20Generation-0F766E?style=for-the-badge" alt="Image Generation" />
-  <img src="https://img.shields.io/badge/Strength-MLOps%20%26%20Infra-7C3AED?style=for-the-badge" alt="MLOps and Infrastructure" />
+  <img src="https://img.shields.io/badge/Domain-Applied%20AI%20Systems-0F172A?style=for-the-badge" alt="Applied AI Systems" />
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-1D4ED8?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Strength-ML%20Infrastructure-0F766E?style=for-the-badge" alt="ML Infrastructure" />
 </p>
 
 ## Profile
@@ -36,17 +28,37 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/BentoML-111827?style=flat-square&logoColor=white" alt="BentoML" />
+  <img src="https://img.shields.io/badge/Triton%20Inference-111827?style=flat-square&logo=nvidia&logoColor=white" alt="Triton Inference Server" />
   <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Transformers-111827?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-111827?style=flat-square&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Elasticsearch-111827?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/FAISS-111827?style=flat-square&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/pgvector-111827?style=flat-square&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-111827?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Runpod-111827?style=flat-square&logoColor=white" alt="Runpod" />
   <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Celery-111827?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
 </p>
 
 ## Impact Highlights
@@ -58,52 +70,88 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
 - Cut mobile pose estimation latency by 40% by optimizing MediaPipe-based body tracking for real-time deployment.
 - Designed CI pipelines with GitHub Actions that pushed test coverage to 97% and substantially reduced production issues.
 
-## Experience Snapshot
-
-### Machine Learning Engineer, LLMs
-**Stealth Startup, Sydney** | Jul 2024 - Jan 2026
-
-- Built vector search, semantic retrieval, and product normalization pipelines for grocery discovery.
-- Developed a recipe generation and shopping assistant experience using RAG and LLM-driven retrieval.
-- Created data pipelines and web scrapers for Coles, Aldi, IGA, and Woolworths to keep product catalogs fresh and searchable.
-
-### Machine Learning Engineer, Human Pose Estimation and Motion Mapping
-**Add Life Technologies, Adelaide** | Feb 2025 - Jul 2025
-
-- Integrated MediaPipe with Unity for real-time body tracking and optimized performance for mobile devices.
-- Built backend APIs with FastAPI and supported a Flutter-based cross-platform application for real-time video workflows.
-- Improved stability under concurrent streaming workloads through async processing, stress testing, and memory leak fixes.
-
-### Machine Learning Engineer, Image Generation
-**Vyro** | Aug 2022 - Jan 2024
-
-- Built and deployed large-scale inference systems for ImagineArt and Phototune using FastAPI, Docker, Triton, and Kubernetes.
-- Supported more than 30 ML models in production across image generation and enhancement workflows.
-- Developed reusable Python SDKs and ML serving patterns that reduced feature-hosting effort by 80%.
-
-## Education
-
-- **Master of Artificial Intelligence and Machine Learning**, The University of Adelaide
-- **Bachelor of Computer Science**, National University of Computer and Emerging Sciences
-
-## Selected Projects
-
-- **ApplyGraph**: Agentic AI job copilot built with FastAPI, LangGraph, OpenAI and Gemini APIs, PostgreSQL with pgvector, and Streamlit.
-- **MergeWise**: AI pull request reviewer using RAG, FAISS, GitHub Checks, FastAPI, Celery, and Redis.
-- **AutomateIt**: Home automation system using deep learning, React Native, and MongoDB with Urdu voice command support.
-- **Temporal Financial Forecasting**: Deep learning forecasting pipeline using RNNs, GRUs, and LSTMs for multi-horizon financial prediction.
-- **CNN Benchmark Suite**: PyTorch framework for benchmarking CNN architectures with reproducible training and evaluation workflows.
-- **Clinical Risk Prediction**: End-to-end binary classification pipeline for healthcare risk detection with class balancing and model benchmarking.
-
 ## Tools and Technologies
 
-**Languages:** Python, C++, Java, SQL  
-**AI and ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, MediaPipe, Transformers, Vertex AI  
-**LLM and GenAI:** OpenAI APIs, Gemini APIs, RAG, LangGraph, Stable Diffusion, GANs, BERT, GPT  
-**Backend and MLOps:** FastAPI, BentoML, Triton Inference Server, Docker, Kubernetes, DVC, GitHub Actions, Linux  
-**Databases and Retrieval:** PostgreSQL, MySQL, SQLite, MongoDB, Redis, KeyDB, Firebase, Cloudflare KV, Elasticsearch, Pinecone, FAISS, pgvector  
-**Cloud and Platforms:** AWS, GCP, Runpod, LambdaLabs, DigitalOcean  
-**Application Stack:** Flutter, Unity, Streamlit, Celery
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C++-2563EB?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Scikit--learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/OpenCV-0F172A?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/MediaPipe-0F172A?style=flat-square&logoColor=white" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/Transformers-0F172A?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers" />
+      <img src="https://img.shields.io/badge/Vertex%20AI-0F172A?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>LLM / GenAI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Gemini-7C3AED?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white" alt="RAG" />
+      <img src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/Stable%20Diffusion-7C3AED?style=flat-square&logoColor=white" alt="Stable Diffusion" />
+      <img src="https://img.shields.io/badge/GANs-7C3AED?style=flat-square&logoColor=white" alt="GANs" />
+      <img src="https://img.shields.io/badge/BERT-7C3AED?style=flat-square&logoColor=white" alt="BERT" />
+      <img src="https://img.shields.io/badge/GPT-7C3AED?style=flat-square&logoColor=white" alt="GPT" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data / Retrieval</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-0F766E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-0F766E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MongoDB-0F766E?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-0F766E?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/KeyDB-0F766E?style=flat-square&logoColor=white" alt="KeyDB" />
+      <img src="https://img.shields.io/badge/Firebase-0F766E?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Cloudflare%20KV-0F766E?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare KV" />
+      <img src="https://img.shields.io/badge/Elasticsearch-0F766E?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+      <img src="https://img.shields.io/badge/Pinecone-0F766E?style=flat-square&logoColor=white" alt="Pinecone" />
+      <img src="https://img.shields.io/badge/FAISS-0F766E?style=flat-square&logoColor=white" alt="FAISS" />
+      <img src="https://img.shields.io/badge/pgvector-0F766E?style=flat-square&logoColor=white" alt="pgvector" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend / Infra</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-B45309?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/BentoML-B45309?style=flat-square&logoColor=white" alt="BentoML" />
+      <img src="https://img.shields.io/badge/Triton%20Inference-B45309?style=flat-square&logo=nvidia&logoColor=white" alt="Triton Inference Server" />
+      <img src="https://img.shields.io/badge/Docker-B45309?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-B45309?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/DVC-B45309?style=flat-square&logoColor=white" alt="DVC" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-B45309?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Linux-B45309?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/badge/Celery-B45309?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud / Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-DC2626?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/GCP-DC2626?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Runpod-DC2626?style=flat-square&logoColor=white" alt="Runpod" />
+      <img src="https://img.shields.io/badge/LambdaLabs-DC2626?style=flat-square&logoColor=white" alt="LambdaLabs" />
+      <img src="https://img.shields.io/badge/DigitalOcean-DC2626?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+      <img src="https://img.shields.io/badge/Flutter-DC2626?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Unity-DC2626?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/Streamlit-DC2626?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+    </td>
+  </tr>
+</table>
 
 ## Open To
 
