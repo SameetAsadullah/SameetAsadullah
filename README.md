@@ -146,9 +146,6 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
       <img src="https://img.shields.io/badge/Runpod-DC2626?style=flat-square&logoColor=white" alt="Runpod" />
       <img src="https://img.shields.io/badge/LambdaLabs-DC2626?style=flat-square&logoColor=white" alt="LambdaLabs" />
       <img src="https://img.shields.io/badge/DigitalOcean-DC2626?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-      <img src="https://img.shields.io/badge/Flutter-DC2626?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Unity-DC2626?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-      <img src="https://img.shields.io/badge/Streamlit-DC2626?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
     </td>
   </tr>
 </table>
