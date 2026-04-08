@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/Strength-ML%20Infrastructure-0F766E?style=for-the-badge" alt="ML Infrastructure" />
 </p>
 
-## Profile
+## 👤 Profile
 
 I am a Machine Learning Engineer with 3+ years of experience building and scaling AI products across LLMs, semantic search, image generation, and real-time vision systems. My work has spanned high-traffic consumer apps, production inference infrastructure, healthcare-focused motion tracking, and retrieval-powered product discovery.
 
 I have completed a Master of Artificial Intelligence and Machine Learning at the University of Adelaide, and previously earned a Bachelor of Computer Science from FAST-NUCES.
 
-## What I Build
+## 🛠️ What I Build
 
 - Production LLM applications with retrieval, ranking, prompt workflows, and evaluation loops
 - Search and recommendation systems powered by embeddings, vector search, and product normalization
@@ -24,7 +24,7 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
 - Real-time computer vision systems for mobile and cross-platform applications
 - Backend services and ML APIs designed for reliability, observability, and fast iteration
 
-## Core Stack
+## ⚙️ Core Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -61,7 +61,7 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
   <img src="https://img.shields.io/badge/Celery-111827?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
 </p>
 
-## Impact Highlights
+## 📈 Impact Highlights
 
 - Improved product search relevance by roughly 35-45% by building vector-based search with Elasticsearch and transformer embeddings.
 - Built a RAG-powered recipe workflow that maps natural-language meal requests to recipes and semantically matched supermarket products.
@@ -70,7 +70,7 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
 - Cut mobile pose estimation latency by 40% by optimizing MediaPipe-based body tracking for real-time deployment.
 - Designed CI pipelines with GitHub Actions that pushed test coverage to 97% and substantially reduced production issues.
 
-## Tools and Technologies
+## 🧰 Tools and Technologies
 
 <table>
   <tr>
@@ -153,6 +153,6 @@ I have completed a Master of Artificial Intelligence and Machine Learning at the
   </tr>
 </table>
 
-## Open To
+## 🎯 Open To
 
 I am most interested in Machine Learning Engineer, Applied AI Engineer, and LLM Engineer roles where I can work on production AI systems, search and retrieval, multimodal products, and scalable ML infrastructure.
