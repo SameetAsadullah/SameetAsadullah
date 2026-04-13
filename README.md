@@ -12,7 +12,7 @@
 
 ## 👤 Profile
 
-I am a Machine Learning Engineer with 3+ years of experience building and scaling AI products across LLMs, semantic search, image generation, and real-time vision systems. My work has spanned high-traffic consumer apps, production inference infrastructure, healthcare-focused motion tracking, and retrieval-powered product discovery.
+Machine Learning Engineer focused on building and scaling production-grade AI products across LLMs, semantic retrieval, image generation, and real-time vision systems. Experienced in developing high-traffic AI applications, scalable inference infrastructure, and end-to-end machine learning solutions that translate complex ideas into reliable, user-facing products.
 
 I have completed a Master of Artificial Intelligence and Machine Learning at the University of Adelaide, and previously earned a Bachelor of Computer Science from FAST-NUCES.
 
