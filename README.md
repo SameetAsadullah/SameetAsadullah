@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://sameetasadullah.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/">LinkedIn</a> ·
+  <a href="mailto:sameetassadullah744@gmail.com">Email</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Domain-Applied%20AI%20Systems-0F172A?style=for-the-badge" alt="Applied AI Systems" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-1D4ED8?style=for-the-badge" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Strength-ML%20Infrastructure-0F766E?style=for-the-badge" alt="ML Infrastructure" />
