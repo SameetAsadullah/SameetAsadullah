@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sameetasadullah.dev"><img src="https://img.shields.io/badge/Portfolio-View-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:sameetassadullah744@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white" alt="Send email" /></a>
+  <a href="https://sameetasadullah.dev"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sameetassadullah744@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 👤 Profile
