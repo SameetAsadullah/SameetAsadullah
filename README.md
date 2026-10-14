@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://sameetasadullah.dev"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <!-- LinkedIn icon: Font Awesome 5, CC BY 4.0; https://fontawesome.com/license -->
-  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTAwLjI4IDQ0OEg3LjRWMTQ4LjloOTIuODh6TTUzLjc5IDEwOC4xQzI0LjA5IDEwOC4xIDAgODMuNSAwIDUzLjhhNTMuNzkgNTMuNzkgMCAwIDEgMTA3LjU4IDBjMCAyOS43LTI0LjEgNTQuMy01My43OSA1NC4zek00NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjItNDguMjkgMC01NS42OSAzNy43LTU1LjY5IDc2LjdWNDQ4aC05Mi43OFYxNDguOWg4OS4wOHY0MC44aDEuM2MxMi40LTIzLjUgNDIuNjktNDguMyA4Ny44OC00OC4zIDk0IDAgMTExLjI4IDYxLjkgMTExLjI4IDE0Mi4zVjQ0OHoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:sameetassadullah744@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
