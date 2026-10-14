@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sameetasadullah.dev">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/">LinkedIn</a> ·
-  <a href="mailto:sameetassadullah744@gmail.com">Email</a>
+  <a href="https://sameetasadullah.dev"><img src="https://img.shields.io/badge/Portfolio-View-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sameetassadullah744@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 </p>
 
 <p align="center">
