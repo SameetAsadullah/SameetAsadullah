@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://sameetasadullah.dev"><img src="https://img.shields.io/badge/Portfolio-View-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:sameetassadullah744@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Domain-Applied%20AI%20Systems-0F172A?style=for-the-badge" alt="Applied AI Systems" />
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-1D4ED8?style=for-the-badge" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Strength-ML%20Infrastructure-0F766E?style=for-the-badge" alt="ML Infrastructure" />
+</p>
+
+<p align="center">
+  <a href="https://sameetasadullah.dev"><img src="https://img.shields.io/badge/Portfolio-View-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sameet-asadullah-055004215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-334155?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sameetassadullah744@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white" alt="Send email" /></a>
 </p>
 
 ## 👤 Profile
